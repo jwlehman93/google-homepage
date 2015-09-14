@@ -2,16 +2,25 @@
 <html>
 	<head>
 		<title>Google</title>
+		<link href="favico.ico" rel="shortcut icon">
+		<link rel="stylesheet" href="google.css">
 	</head>
-	<link href="favico.ico" rel="shorcut icon">
-	<link rel="stylesheet" href="google.css">
 	<body>
-		<div class="logo">
-			<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
-		</div>
+		
 		<div class="top_bar">
 		</div>
-		<div class="search_bar">
+
+		<div class="main">
+			<div class="logo">
+			<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" width="275" height="75">
+			</div>
+			<div class="search_bar">
+				<form action="#" method="post">
+					<input type="text" name="search_bar"><br>
+					<input type="submit" name="search" value = "Google Search">
+					<input type="submit" name="feeling_lucky" value="I'm Feeling Lucky">
+				</form>
+			</div>
 		</div>
 		<div class="bottom_bar">
 		</div>

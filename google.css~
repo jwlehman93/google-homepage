@@ -1,0 +1,10 @@
+.main{
+	top:200px;
+	right:850;
+	position:absolute;
+}	
+
+.logo{
+	width=120px;
+	height=80px;
+}
