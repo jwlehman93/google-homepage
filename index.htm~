@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Google</title>
+	</head>
+	<link href="favico.ico" rel="shorcut icon">
+	<link rel="stylesheet" href="google.css">
+	<body>
+		<div class="logo">
+			<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
+		</div>
+		<div class="top_bar">
+		</div>
+		<div class="search_bar">
+		</div>
+		<div class="bottom_bar">
+		</div>
+	</body>
+
+
+</html>
